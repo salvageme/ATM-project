@@ -50,7 +50,7 @@ This ATM simulation is **not** intended for production use or handling actual mo
 
 1. **Clone the Repository**
    
-   git clone https://github.com/salvageme/ATM-project.git
+   git clone https://github.com/salvageme/ATM-project.git<br>
    cd atm-project
 
 2. **Configure Database Connection**
@@ -66,7 +66,7 @@ This ATM simulation is **not** intended for production use or handling actual mo
 
    python3 atm.py
 
-
+<br>
 
 📎 Notes
 
