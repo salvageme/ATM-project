@@ -55,7 +55,8 @@ This ATM simulation is **not** intended for production use or handling actual mo
 
 2. **Configure Database Connection**
 
-   Update your Python code with your MySQL credentials (host, user, password, database name).
+   First, create a database using mysql named "ATM_MACHINE".
+   Then, Update your Python code with your MySQL credentials (host, user, password, database name).
    
 3. **Set Up the Database**
 
